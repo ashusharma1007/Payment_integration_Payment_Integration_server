@@ -1,14 +1,14 @@
-Lets Deliver
+Grey Collar Hub
 Optimize your earnings by working during peak hours for more than one company. Less waiting times and higher earnings. Utilize free time to earn more. Support your family with that extra income. We let you apply for multiple jobs with big companies to maximize your earnings 🔥.
 
 Features
 
  Password user login and SignUp using sawo lab API
  Welcome landing page
- Delivery jobs search with relevent filters
+ Delivery and driving jobs search with relevent filters
  Easy job appliaction form
  Easy client connect form
- Delivery jobs for womens ❤️
+ Delivery and driving jobs for womens ❤️
  Secure admin login
  Admin dasboard
  Records daily earning
@@ -37,16 +37,16 @@ Local Installation for frontend
 
 Steps
 git clone <repository-url> where <repository-url>is the link to the forked repository
-cd frontend_ui
+cd Grey-Collar-Hub
 Note : If you want to contribute, first fork the original repository and clone the forked repository into your local machine followed by cd into the directory
 
-git clone https://github.com/USERNAME/frontend_ui
+git clone https://github.com/USERNAME/Grey-Collar-Hub
 cd frontend_ui
 Local Installation for backend
 
 Steps
 git clone <repository-url> where <repository-url>is the link to the forked repository
-cd backend_services
+cd HackOdisha_server
 Note : If you want to contribute, first fork the original repository and clone the forked repository into your local machine followed by cd into the directory
 
 git clone https://github.com/USERNAME/backend_services
