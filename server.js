@@ -16,11 +16,9 @@ const port = process.env.PORT || 5000;
 //middleware
 app.use(cors())
 app.use(express.json());
-app.use("/api/apply", require("./routes/application"));
-app.use("/api/auth", require("./routes/auth"));
-app.use("/api/private", require("./routes/private"));
-app.use("/api/Jobs", require("./routes/JobsDB"));
-app.use("/api/client", require("./routes/ClientId"));
+
+app.use("/api/transactions", require("./routes/transactionDB"));
+
 // fileupload
 /**
  * error handling should be the last peice of the middleware
